@@ -43,7 +43,4 @@ public class SG90Servo{
     public func move(to: Position) {
         pwm.startPWM(period: period, duty: Float(to.rawValue))
     }
-
 }
-
-
