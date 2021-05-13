@@ -4,7 +4,7 @@ A description of this package.
 
 ## Connect
 
-`connectmaxi='ssh 192.168.1.110 -l maxi'`
+`connectmaxi='ssh <rpi ip> -l <username>'`
 
 ## Build and Run
 
